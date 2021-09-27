@@ -1,7 +1,9 @@
  # <a>Christian Ricarte</a>
  
 ## About Me
-Saudações! 👋 Eu sou o Chris, tenho 19 anos e estou cursando Ciência da Computação na UAM - Univeridade Anhembi Morumbi.
+Saudações! 👋 
+
+Eu sou o Chris, tenho 19 anos e estou cursando Ciência da Computação na UAM - Univeridade Anhembi Morumbi.
 
 ## Technologies
 - Front-end com HTML, CSS, JS
