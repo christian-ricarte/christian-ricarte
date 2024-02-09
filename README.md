@@ -3,7 +3,7 @@
 - 🤔 &nbsp; Sempre receptivo a novas tecnologias, bem como compromissado em desenvolver soluções inteligentes e eficazes;
 - 🎓 &nbsp; **Graduado** em **Ciência da Computação** pela <a href="https://portal.anhembi.br/?gad=1">Universidade Anhembi Morumbi</a>;
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Full Stack** na <a href="https://www.novigo-it.com/">Novigo IT</a>, alocado no projeto do [Energy Hub](https://www.bbce.com.br/ehub/).
-- 💻 &nbsp; Participando do **Bootcamp Ignite** de Node.js e React JS da <a href="https://www.rocketseat.com.br">Rocketseat</a>;
+- 💻 &nbsp; Participando do **Bootcamp Ignite** de Node.js e React JS da <a href="https://www.rocketseat.com.br">Rocketseat</a>.
 
 <h3>🚀 Minhas Skills:</h3>
 
